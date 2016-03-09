@@ -1,3 +1,3 @@
 gender = {
-  'fakhir': 'male', 'tooba': 'female', 'telenor': 'undefined'
+  'fakhir': 'male', 'Amina': 'female', 'telenor': 'undefined'
 }
